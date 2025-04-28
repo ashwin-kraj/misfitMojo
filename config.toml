@@ -1,0 +1,60 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "misfitMojo"
+theme = "stack"
+pagerSize = 5
+
+# Additional settings
+enableEmoji = true
+summaryLength = 20
+
+[tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+
+[highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4
+
+[params]
+  description = "A personal blog built with Hugo"
+  favicon = ""
+  site_logo = ""
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  github = ""
+  background_color_class = "bg-black"
+  featured_image = "/images/cover-image.jpg"
+  
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/CaiJimmy/hugo-theme-stack"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com"
+
+[social.params]
+icon = "brand-twitter"
