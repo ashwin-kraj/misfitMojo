@@ -7,20 +7,11 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 01 Oct 2023 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>http://localhost:1313/page/about/</link>
-        <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/page/about/</guid>
-        <description>&lt;p&gt;Wanderings of a restless mind – in search of meaning, refusing to conform, a misfit channeling the spirit of solitude.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Library</title>
-        <link>http://localhost:1313/page/library/library/</link>
+        <link>http://localhost:1313/page/library/</link>
         <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/library/library/</guid>
+        <guid>http://localhost:1313/page/library/</guid>
         <description>&lt;p&gt;These books represent the rabbit holes I’ve gone down over the years and the ideas and topics I’ve been curious about and engaged with.&lt;/p&gt;
 &lt;h4 id=&#34;2021&#34;&gt;2021
 &lt;/h4&gt;&lt;pre&gt;&lt;code&gt;Klara And The Sun – Kazuo Ishiguro
@@ -135,6 +126,15 @@ The End of Eternity – Isaac Asimov
 One Hundred Years of Solitude – Gabriel García Márquez
 Love in the Time of Cholera – Gabriel García Márquez 
 &lt;/code&gt;&lt;/pre&gt;
+</description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;p&gt;Wanderings of a restless mind – in search of meaning, refusing to conform, a misfit channeling the spirit of solitude.&lt;/p&gt;
 </description>
         </item>
         <item>

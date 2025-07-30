@@ -7,20 +7,11 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 01 Oct 2023 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>http://localhost:1313/page/about/</link>
-        <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/page/about/</guid>
-        <description>&lt;p&gt;Wanderings of a restless mind – in search of meaning, refusing to conform, a misfit channeling the spirit of solitude.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Library</title>
-        <link>http://localhost:1313/page/library/library/</link>
+        <link>http://localhost:1313/page/library/</link>
         <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/library/library/</guid>
+        <guid>http://localhost:1313/page/library/</guid>
         <description>&lt;p&gt;These books represent the rabbit holes I’ve gone down over the years and the ideas and topics I’ve been curious about and engaged with.&lt;/p&gt;
 &lt;h4 id=&#34;2021&#34;&gt;2021
 &lt;/h4&gt;&lt;pre&gt;&lt;code&gt;Klara And The Sun – Kazuo Ishiguro
@@ -138,17 +129,40 @@ Love in the Time of Cholera – Gabriel García Márquez
 </description>
         </item>
         <item>
-        <title>Book Review : Chronicle of a Death Foretold</title>
-        <link>http://localhost:1313/posts/chronicle-of-a-death-foretold/</link>
-        <pubDate>Fri, 06 May 2022 12:00:00 +0000</pubDate>
+        <title>About</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/chronicle-of-a-death-foretold/</guid>
-        <description>&lt;p&gt;This was a fairly short book that I read through in one sitting on a lazy holiday morning. The gripping storytelling and the layered non-linear plot that flitted across time and characters kept me hooked. The author Gabriel Garcia Marquez is known for pioneering a style of literature known as magic realism, blending fantasy and the ordinary. Also a popular journalist, he brings a journalistic touch to this complex tale of murder.&lt;/p&gt;
-&lt;p&gt;The story follows the unnamed author trying to understand the events behind a murder that shook his village almost 27 years ago. The victim Santiago Nasar, was a childhood friend of the author. He was hacked to death on the doorsteps of his home. The murderers were known to everyone and to the victim himself. They’d been going around the village announcing that they were going to murder Santiago. This was mistaken for the drunken rambling of young men who had been revelling too long. A wedding party unlike any the village had seen had taken place over the weekend. A wedding which in fact acts as a catalyst for Santiago’s murder. The would-be murderers too do not want to commit the murder and were looking for someone to stop them. The whole village knew of the murder that was about to take place, and yet Santiago’s fate had been sealed.&lt;/p&gt;
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;p&gt;Wanderings of a restless mind – in search of meaning, refusing to conform, a misfit channeling the spirit of solitude.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Book Review - Chronicle of a Death Foretold</title>
+        <link>http://localhost:1313/post/chronicle-of-a-death-foretold/</link>
+        <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/chronicle-of-a-death-foretold/</guid>
+        <description>&lt;img src="http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold.jpg" alt="Featured image of post Book Review - Chronicle of a Death Foretold" /&gt;&lt;p&gt;This was a fairly short book that I read through in one sitting on a lazy holiday morning. The gripping storytelling and the layered non-linear plot that flitted across time and characters kept me hooked. The author Gabriel Garcia Marquez is known for pioneering a style of literature known as magic realism, blending fantasy and the ordinary. Also a popular journalist, he brings a journalistic touch to this complex tale of murder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold.jpg&#34;
+	width=&#34;309&#34;
+	height=&#34;475&#34;
+	srcset=&#34;http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold_hu_4b629f15aa0e5e46.jpg 480w, http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold_hu_782674e8f8ae9d3e.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Cover&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;65&#34;
+		data-flex-basis=&#34;156px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The story follows the unnamed author trying to understand the events behind a murder that shook his village almost 27 years ago. The victim Santiago Nasar, was a childhood friend of the author. He was hacked to death on the doorsteps of his home. The murderers were known to everyone and to the victim himself. They&amp;rsquo;d been going around the village announcing that they were going to murder Santiago. This was mistaken for the drunken rambling of young men who had been revelling too long. A wedding party unlike any the village had seen had taken place over the weekend. A wedding which in fact acts as a catalyst for Santiago&amp;rsquo;s murder. The would-be murderers too do not want to commit the murder and were looking for someone to stop them. The whole village knew of the murder that was about to take place, and yet Santiago&amp;rsquo;s fate had been sealed.&lt;/p&gt;
 &lt;p&gt;We are taken through recollections made by the characters who are still alive all those years later. They recite their memories of that fateful day, of how each had crossed paths with Santiago Nasar. He almost flows past them to his death. Many of them have lived and some have died, consumed by the regret that they could have prevented the senseless tragedy.&lt;/p&gt;
-&lt;p&gt;The senseless nature of events that lead to murder could be dismissed as being too convenient in any other novel. Gabriel Marquez’s beautiful writing paints a picture that is magical and poignant, yet so ordinary and mundane. These are people going about their lives, with their own petty grievances and feuds, weaving their own intricate inner stories. The series of chance events that come together and lead to the murder leaves us pondering the random nature of our own lives.&lt;/p&gt;
+&lt;p&gt;The senseless nature of events that lead to murder could be dismissed as being too convenient in any other novel. Gabriel Marquez&amp;rsquo;s beautiful writing paints a picture that is magical and poignant, yet so ordinary and mundane. These are people going about their lives, with their own petty grievances and feuds, weaving their own intricate inner stories. The series of chance events that come together and lead to the murder leaves us pondering the random nature of our own lives.&lt;/p&gt;
 &lt;p&gt;Indeed this story is about so much more, mine has been a very reductive telling of the plot. One that does not even mention many of the major players in this drama. I would suggest you read the book to enjoy the themes, the personalities, their motivations and the tragedies that befall them.&lt;/p&gt;
-&lt;p&gt;What interested me the most, was what the story says about the contingent nature of our lives. Almost always on a razor’s edge, never certain where we might fall. While it’s an impossible task to map the true impact of what we do. Our actions, the small decisions we make every day, might not end up aiding a murder. And hopefully, unlike the people of this village, we won’t have to live decades with the maddening weight of our actions or inaction. With the weight of the knowledge that our actions could have saved the life of a man whose death was foretold.&lt;/p&gt;
+&lt;p&gt;What interested me the most, was what the story says about the contingent nature of our lives. Almost always on a razor&amp;rsquo;s edge, never certain where we might fall. While it&amp;rsquo;s an impossible task to map the true impact of what we do. Our actions, the small decisions we make every day, might not end up aiding a murder. And hopefully, unlike the people of this village, we won&amp;rsquo;t have to live decades with the maddening weight of our actions or inaction. With the weight of the knowledge that our actions could have saved the life of a man whose death was foretold.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -158,6 +172,48 @@ Love in the Time of Cholera – Gabriel García Márquez
         
         <guid>http://localhost:1313/page/archives/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>home</title>
+        <link>http://localhost:1313/post/home/</link>
+        <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/home/</guid>
+        <description>&lt;p&gt;Everyone yearns for a home. But what is it, this thing we call home? It’s not just a physical space, the place where your family resides. While this is a good enough definition of home; having lived away from my family for the last seven years, I’d say that I’ve made myself at home in many places.&lt;/p&gt;
+&lt;p&gt;The dingy, ancient, fortress like hostel that I called home during my college years. Each year a new room, some dusty and neglected, one with the best views on campus. A new floor, a new corridor, a new building each year, the friends and neighbours the only constants. I’ve considered each one of those rooms my home.&lt;/p&gt;
+&lt;p&gt;Later, working in Bangalore, I lived for two years in a 2-bedroom apartment with four others. A place brimming with fond memories and the joy of living independently with enough money in our pockets. Exonerated from the guilt of spending our parents money. This too was home. Then came the move to Kozhikode, and the surprisingly great hostels there. Each of these spaces have been home. Spaces I’ve lived in, spaces I’ve made my own, spaces I associate with a particular memory, experience or phase in my life.&lt;/p&gt;
+&lt;p&gt;Over these many years, I’ve gone back to my family home intermittently, once every two or three months. But I’ve always been a guest there. Now, this didn’t just mean I got good food or got pampered the few days I spent there every year. It meant that I did not have a room of my own, not a wardrobe nor personal space of any sort. Before I go on, it should be made clear that my family had moved into this house right after I’d left for my college. As an occasional visitor, I hadn’t really needed a room there.&lt;/p&gt;
+&lt;p&gt;When the pandemic struck, the campus closed and I was sent packing back to this home that was not yet my home. Not having lived there for more than a week in my entire life, I moved into a spare room. A room whose earlier occupants included an ancient typewriter plus an assortment of electronic components and equipment that my father used. I set about making this room my own. Slowly encroaching upon the earlier inhabitants and making myself comfortable. This took quite a while. Once the room was set to my liking, what followed was much more challenging.&lt;/p&gt;
+&lt;p&gt;Having lived away from my family for a while, there was a process of rediscovery. Noticing the little things that I’d forgotten, or not really seen earlier. Things that I’d learnt to speak up against and criticize in my life outside. I could try to reason against these, but more often I learnt to live in peace with them.&lt;/p&gt;
+&lt;p&gt;To me, this seems to be what these past 5 months have been about. A struggle against the loss of independence. The questioning of beliefs and loss of identity that seem to be the result of living with your family as a fully functioning adult.&lt;/p&gt;
+&lt;p&gt;This is not a piece where the writer finds his place in his family and lives a happy life. One with a reassuring message to tell. One where I rediscover my childhood home. For the very idea of a golden period in your life to reminisce about and yearn for seems flawed. There can be no perfect home to which we might return to, only different spaces you inhabit and build for yourself at different periods in your life. But the simple truth is, like many of you, I’m just sitting here with my bags packed. Waiting for the mail telling us that we can go back to campus. Cause right now, in this phase of my life, Kozhikode is home.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Sheroes Hangout</title>
+        <link>http://localhost:1313/post/sheroes-hangout/</link>
+        <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/sheroes-hangout/</guid>
+        <description>&lt;img src="http://localhost:1313/post/sheroes-hangout/sheroes.jpg" alt="Featured image of post Sheroes Hangout" /&gt;&lt;p&gt;&lt;strong&gt;This was written sometime in 2015 after a tour from my college to Agra among other places in Northern India&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hunger. We&amp;rsquo;ve been walking for a long time. We&amp;rsquo;d set out to find something that was a local specialty. Hunger. Maybe that was a bad idea. Maybe we should have just eaten at the South Indian restaurant the others had found. But being the free spirits we were, we had to find a dhaba(this was also due to the condition of our finances) . Hunger. And so now we roam the streets of Agra looking for a good dhaba. There was supposed to be a good one along this street ,or that&amp;rsquo;s what Google told us. Hunger. We&amp;rsquo;re at our limits, maybe we should eat at the next restaurant we see. &amp;lsquo;Sheroes Hangout&amp;rsquo; , the tiny colorful board read. What&amp;rsquo;s that supposed to mean? They have our attention. We take a peek into the shop. Seems like a cool place, must be expensive. We say among ourselves. There&amp;rsquo;s even a library with quite a collection by one of the walls. We&amp;rsquo;ll just pop in and check out the menu and prices, we decide. The menu is pretty standard, decent stuff, but they seem to have left out the prices. Aha! Trying to con us are you. We&amp;rsquo;re too old to fall for that. We look around trying to find someone who looks like they&amp;rsquo;re in charge there. We find a boy, who looks like he certainly isn&amp;rsquo;t in charge. We ask him. He gives us a beaming smile and points out to the bottom of the menu card. Printed there in bold letters – &amp;ldquo;Pay as you wish.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/sheroes-hangout/sheroes.jpg&#34;
+	width=&#34;536&#34;
+	height=&#34;286&#34;
+	srcset=&#34;http://localhost:1313/post/sheroes-hangout/sheroes_hu_7bafc312779b6600.jpg 480w, http://localhost:1313/post/sheroes-hangout/sheroes_hu_9ce0e50cc88d4105.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Sheroes Hangout Cafe&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;187&#34;
+		data-flex-basis=&#34;449px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Sheroes Hangout is the work of 5 women. 5 women who were victims of a cruel society. Their lives were destroyed by men who threw acid on their faces, scarring them for life. Their lives would have played out like the lives of thousands of other acid-attack survivors in India. But these women chose to fight back, they chose to reclaim their lives. Sheroes is an organization that provides support to acid-attack survivors and spreads awareness about this heinous crime. The cafe provides these women a livelihood and a chance to pursue their dreams. Here , they sell handicrafts and clothes designed by the women and others like them. The kitchen and the waiting staff is also entirely comprised of these women. Organizations like these go a long way in raising awareness on critical issues and changing perceptions.&lt;/p&gt;
+&lt;p&gt;After ordering and eating our fill, of the food which was excellent, at the cafe. We finally paid more than what our meals would have cost at any other place. The satisfaction of contributing to a noble cause, was many times more filling than the food itself.&lt;/p&gt;
+</description>
         </item>
         
     </channel>

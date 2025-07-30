@@ -1,11 +1,11 @@
 ---
 title: "About"
-date: 2023-10-01T12:00:00Z
+date: 2023-10-01
 layout: "about"
 slug: "about"
 menu:
     main: 
-        weight: 4
+        weight: 2
         params:
             icon: user
 ---
