@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on misfitMojo</title>
-        <link>http://localhost:1313/post/</link>
+        <link>http://example.com/post/</link>
         <description>Recent content in Posts on misfitMojo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Book Review - Chronicle of a Death Foretold</title>
-        <link>http://localhost:1313/post/chronicle-of-a-death-foretold/</link>
+        <link>http://example.com/post/chronicle-of-a-death-foretold/</link>
         <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/chronicle-of-a-death-foretold/</guid>
-        <description>&lt;img src="http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold.jpg" alt="Featured image of post Book Review - Chronicle of a Death Foretold" /&gt;&lt;p&gt;This was a fairly short book that I read through in one sitting on a lazy holiday morning. The gripping storytelling and the layered non-linear plot that flitted across time and characters kept me hooked. The author Gabriel Garcia Marquez is known for pioneering a style of literature known as magic realism, blending fantasy and the ordinary. Also a popular journalist, he brings a journalistic touch to this complex tale of murder.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold.jpg&#34;
+        <guid>http://example.com/post/chronicle-of-a-death-foretold/</guid>
+        <description>&lt;img src="http://example.com/post/chronicle-of-a-death-foretold/deathForetold.jpg" alt="Featured image of post Book Review - Chronicle of a Death Foretold" /&gt;&lt;p&gt;This was a fairly short book that I read through in one sitting on a lazy holiday morning. The gripping storytelling and the layered non-linear plot that flitted across time and characters kept me hooked. The author Gabriel Garcia Marquez is known for pioneering a style of literature known as magic realism, blending fantasy and the ordinary. Also a popular journalist, he brings a journalistic touch to this complex tale of murder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.com/post/chronicle-of-a-death-foretold/deathForetold.jpg&#34;
 	width=&#34;309&#34;
 	height=&#34;475&#34;
-	srcset=&#34;http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold_hu_4b629f15aa0e5e46.jpg 480w, http://localhost:1313/post/chronicle-of-a-death-foretold/deathForetold_hu_782674e8f8ae9d3e.jpg 1024w&#34;
+	srcset=&#34;http://example.com/post/chronicle-of-a-death-foretold/deathForetold_hu_4b629f15aa0e5e46.jpg 480w, http://example.com/post/chronicle-of-a-death-foretold/deathForetold_hu_782674e8f8ae9d3e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cover&#34;
@@ -36,10 +36,10 @@
         </item>
         <item>
         <title>home</title>
-        <link>http://localhost:1313/post/home/</link>
+        <link>http://example.com/post/home/</link>
         <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/home/</guid>
+        <guid>http://example.com/post/home/</guid>
         <description>&lt;p&gt;Everyone yearns for a home. But what is it, this thing we call home? It’s not just a physical space, the place where your family resides. While this is a good enough definition of home; having lived away from my family for the last seven years, I’d say that I’ve made myself at home in many places.&lt;/p&gt;
 &lt;p&gt;The dingy, ancient, fortress like hostel that I called home during my college years. Each year a new room, some dusty and neglected, one with the best views on campus. A new floor, a new corridor, a new building each year, the friends and neighbours the only constants. I’ve considered each one of those rooms my home.&lt;/p&gt;
 &lt;p&gt;Later, working in Bangalore, I lived for two years in a 2-bedroom apartment with four others. A place brimming with fond memories and the joy of living independently with enough money in our pockets. Exonerated from the guilt of spending our parents money. This too was home. Then came the move to Kozhikode, and the surprisingly great hostels there. Each of these spaces have been home. Spaces I’ve lived in, spaces I’ve made my own, spaces I associate with a particular memory, experience or phase in my life.&lt;/p&gt;
@@ -52,16 +52,16 @@
         </item>
         <item>
         <title>Sheroes Hangout</title>
-        <link>http://localhost:1313/post/sheroes-hangout/</link>
+        <link>http://example.com/post/sheroes-hangout/</link>
         <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/sheroes-hangout/</guid>
-        <description>&lt;img src="http://localhost:1313/post/sheroes-hangout/sheroes.jpg" alt="Featured image of post Sheroes Hangout" /&gt;&lt;p&gt;&lt;strong&gt;This was written sometime in 2015 after a tour from my college to Agra among other places in Northern India&lt;/strong&gt;&lt;/p&gt;
+        <guid>http://example.com/post/sheroes-hangout/</guid>
+        <description>&lt;img src="http://example.com/post/sheroes-hangout/sheroes.jpg" alt="Featured image of post Sheroes Hangout" /&gt;&lt;p&gt;&lt;strong&gt;This was written sometime in 2015 after a tour from my college to Agra among other places in Northern India&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hunger. We&amp;rsquo;ve been walking for a long time. We&amp;rsquo;d set out to find something that was a local specialty. Hunger. Maybe that was a bad idea. Maybe we should have just eaten at the South Indian restaurant the others had found. But being the free spirits we were, we had to find a dhaba(this was also due to the condition of our finances) . Hunger. And so now we roam the streets of Agra looking for a good dhaba. There was supposed to be a good one along this street ,or that&amp;rsquo;s what Google told us. Hunger. We&amp;rsquo;re at our limits, maybe we should eat at the next restaurant we see. &amp;lsquo;Sheroes Hangout&amp;rsquo; , the tiny colorful board read. What&amp;rsquo;s that supposed to mean? They have our attention. We take a peek into the shop. Seems like a cool place, must be expensive. We say among ourselves. There&amp;rsquo;s even a library with quite a collection by one of the walls. We&amp;rsquo;ll just pop in and check out the menu and prices, we decide. The menu is pretty standard, decent stuff, but they seem to have left out the prices. Aha! Trying to con us are you. We&amp;rsquo;re too old to fall for that. We look around trying to find someone who looks like they&amp;rsquo;re in charge there. We find a boy, who looks like he certainly isn&amp;rsquo;t in charge. We ask him. He gives us a beaming smile and points out to the bottom of the menu card. Printed there in bold letters – &amp;ldquo;Pay as you wish.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/sheroes-hangout/sheroes.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://example.com/post/sheroes-hangout/sheroes.jpg&#34;
 	width=&#34;536&#34;
 	height=&#34;286&#34;
-	srcset=&#34;http://localhost:1313/post/sheroes-hangout/sheroes_hu_7bafc312779b6600.jpg 480w, http://localhost:1313/post/sheroes-hangout/sheroes_hu_9ce0e50cc88d4105.jpg 1024w&#34;
+	srcset=&#34;http://example.com/post/sheroes-hangout/sheroes_hu_7bafc312779b6600.jpg 480w, http://example.com/post/sheroes-hangout/sheroes_hu_9ce0e50cc88d4105.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sheroes Hangout Cafe&#34;
